@@ -1,3 +1,4 @@
+
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
@@ -55,7 +56,7 @@
 		</tr>
 	</table>
 
-<table width="40%" bgcolor="yellow" align="center" border=3>
+<table width="60%" bgcolor="pink" align="center" border=3>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
